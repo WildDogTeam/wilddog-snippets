@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:dataSnapshot}.exists();]]></content>
+    <tabTrigger>exists</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog exists</description>
+</snippet>

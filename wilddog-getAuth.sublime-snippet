@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:ref}.getAuth();]]></content>
+    <tabTrigger>getAuth</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog synchronous auth package</description>
+</snippet>

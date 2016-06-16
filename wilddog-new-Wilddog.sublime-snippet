@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[var ${1:ref} = new Wilddog('${0:url}');]]></content>
+    <tabTrigger>new</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog New Ref</description>
+</snippet>

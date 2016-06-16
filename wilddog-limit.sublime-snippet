@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:ref}.limit(${0:limitNumber}); //.limit deprecated use limitToFirst and limitToLast instead ]]></content>
+    <tabTrigger>limit</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog limit a ref</description>
+</snippet>

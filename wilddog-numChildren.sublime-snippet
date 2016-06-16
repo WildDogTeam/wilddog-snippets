@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:dataSnapshot}.numChildren();]]></content>
+    <tabTrigger>numChildren</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog integer of children</description>
+</snippet>

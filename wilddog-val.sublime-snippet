@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:dataSnapshot}.val();
+]]></content>
+    <tabTrigger>val</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog JS value of snapshot</description>
+</snippet>

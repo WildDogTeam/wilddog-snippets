@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[${1:ref}.authWithOAuthToken( ${2:provider}, ${3:accessToken}, function(error, authData) {
+  if(error) {
+    ${4: /* handle error */}
+  }
+});]]></content>
+    <tabTrigger>authWithOAuthToken</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog OAuth w/ token</description>
+</snippet>

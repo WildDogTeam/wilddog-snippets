@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:ref}.limitToFirst(${2:/* max # of nodes to include in query */}));
+]]></content>
+    <tabTrigger>limitToFirst</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog limit to first x children</description>
+</snippet>

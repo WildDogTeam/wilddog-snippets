@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[${1:ref}.onAuth(function(authData) {
+    ${0: // handle authData }
+}, ${2:context /* optional */});]]></content>
+    <tabTrigger>onauth</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog auth event</description>
+</snippet>

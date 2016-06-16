@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:ref}.name(); //.name() is deprecated use .key() instead]]></content>
+    <tabTrigger>name</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog Last token of location</description>
+</snippet>

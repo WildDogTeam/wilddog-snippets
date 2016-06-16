@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[${1:ref}.authWithCustomToken(${2:authToken}, function(error, authData) {
+  if(error) {
+    ${3: /* handle error */}
+  }
+});]]></content>
+    <tabTrigger>authWithCustomToken</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog Custom Auth Token</description>
+</snippet>

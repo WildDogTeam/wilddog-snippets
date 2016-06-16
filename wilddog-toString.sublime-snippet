@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:ref}.toString();]]></content>
+    <tabTrigger>toString</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog ref toString</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Wilddog.ServerValue.TIMESTAMP;]]></content>
+    <tabTrigger>TIMESTAMP</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog TIMESTAMP</description>
+</snippet>

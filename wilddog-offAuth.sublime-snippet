@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:ref}.offAuth(${0:functionToDetach}, ${2:context /* optional */});]]></content>
+    <tabTrigger>offAuth</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog detach onAuth callback</description>
+</snippet>

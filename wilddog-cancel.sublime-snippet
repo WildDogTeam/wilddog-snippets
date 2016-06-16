@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:ref}.onDisconnect().cancel(${0:/* onComplete */});
+]]></content>
+    <tabTrigger>cancel</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog cancel events</description>
+</snippet>

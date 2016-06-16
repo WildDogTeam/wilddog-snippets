@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[${1:ref}.authAnonymously(function(error, authData) {
+  if(error) {
+    ${2: /* handle error */}
+  }
+});]]></content>
+    <tabTrigger>authAnonymously</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog Custom Auth Token</description>
+</snippet>

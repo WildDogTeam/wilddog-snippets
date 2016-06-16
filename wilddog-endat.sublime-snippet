@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[endAt(${2:/* end point */})]]></content>
+    <tabTrigger>endAt</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog limit w/ end</description>
+</snippet>

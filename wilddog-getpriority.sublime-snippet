@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:dataSnapshot}.getPriority();]]></content>
+    <tabTrigger>getPriority</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog priority of snapshot</description>
+</snippet>

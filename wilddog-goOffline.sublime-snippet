@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Wilddog.goOffline();]]></content>
+    <tabTrigger>goOffline</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog manual disconnect from</description>
+</snippet>

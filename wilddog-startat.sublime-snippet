@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[startAt(${2:/* start point */})]]></content>
+    <tabTrigger>startAt</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog limit a ref</description>
+</snippet>

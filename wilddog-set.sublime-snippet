@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:ref}.set(${2:value}, ${0:/* onComplete */});
+]]></content>
+    <tabTrigger>set</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog write at ref</description>
+</snippet>

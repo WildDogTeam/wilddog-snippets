@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${0:ref}.unauth();]]></content>
+    <tabTrigger>unauth</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog Unauthenticate client</description>
+</snippet>

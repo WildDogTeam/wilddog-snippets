@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Wilddog.goOnline();]]></content>
+    <tabTrigger>goOnline</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog manual connect to</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:ref}.startAt(${2:/* start point */}).limit(${0:limitNumber});
+// startAt deprecated use limitToLast]]></content>
+    <tabTrigger>startAt</tabTrigger>
+    <scope>source.js</scope>
+    <description>wilddog limit a ref</description>
+</snippet>

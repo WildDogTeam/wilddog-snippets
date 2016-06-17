@@ -1,7 +1,7 @@
 # wilddog-snippets
 ================
 
-Sublime text 2 & 3 snippets for firebase javascript API
+Sublime text 2 & 3 snippets for wilddog javascript API
 
 Install "wilddog-snippets" with Sublime Package Control, or download from here and unzip into Packages/wilddog-snippets.
 
